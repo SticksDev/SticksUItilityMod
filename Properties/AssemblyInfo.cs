@@ -38,6 +38,6 @@ using SticksUItilityMod;
 [assembly: AssemblyFileVersion("1.0.0")]
 
 // Melon Loader Information
-[assembly: MelonInfo(typeof(MainMod), "SticksUitilityMod", "0.0.1", "sticks#6436")]
+[assembly: MelonInfo(typeof(MainMod), "SticksUitilityMod", "1.0.0", "sticks#6436")]
 [assembly: MelonGame("VRChat", "VRChat")]
 
